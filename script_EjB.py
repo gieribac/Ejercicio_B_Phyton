@@ -1,4 +1,4 @@
-//Ejercicio_B
+# Ejercicio_B
 
 import math
 
